@@ -1,0 +1,40 @@
+Privacy Policy
+
+Photobox is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect the information you provide when using our AI image editing app with face swap and image generation functions ("the App").
+
+1. Information We Collect
+We may collect the following types of information:
+
+Images and Data Submitted by Users: When using features like face swap or image generation, the images you upload or generate may be processed temporarily to provide the service.
+Device and Usage Data: Information such as device type, operating system, app version, and usage analytics to improve our services.
+Optional Data: If you provide feedback or contact us, we may collect your email or other relevant details.
+2. How We Use Your Data
+We use your data solely for the following purposes:
+
+To process face swaps and generate AI-based images.
+To enhance app performance and user experience.
+To provide customer support when requested.
+3. Data Storage and Security
+Images and data processed through the App are stored locally on your device unless explicitly uploaded to a server for processing.
+If server processing is used, data is encrypted in transit and deleted immediately after processing.
+We implement strict security measures to prevent unauthorized access or data breaches.
+4. Third-Party Services
+We may use third-party tools for:
+
+Cloud-based processing (if applicable).
+Analytics (to monitor app usage and improve functionality).
+These third parties are bound to comply with data protection laws.
+5. Your Rights
+You have the following rights regarding your data:
+
+Access and Deletion: You can delete your data from the App at any time. If server processing is used, no data is stored after the session.
+Opt-Out: You can opt out of analytics tracking via the app settings.
+6. Children’s Privacy
+The App is not intended for use by children under the age of 13. We do not knowingly collect personal data from children. If we become aware of such data, it will be deleted immediately.
+
+7. Changes to This Policy
+We may update this Privacy Policy periodically. Any changes will be posted within the App, and the "Effective Date" at the top will reflect the most recent version.
+
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+CobraClip@gmail.com
